@@ -37,8 +37,8 @@ A modern chat UI app built with React, Vite, and TailwindCSS. It features routin
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [linkedin.com/in/prashantkumar](https://linkedin.com/in/prashantkumar)
-- GitHub: [@psycheknight](https://github.com/psycheknight)
+- LinkedIn: [linkedin.com/in/prashantkumar](https://www.linkedin.com/in/prashantkumartech345/)
+- GitHub: [@psycheknight](https://github.com/psycheknigh)
 - Portfolio: *(Coming Soon)*
 
 ---
