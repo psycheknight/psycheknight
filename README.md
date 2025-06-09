@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @psycheknight
 # 👋 Hi, I'm Prashant Kumar
 
 🚀 A passionate **Full Stack MERN Developer** who loves building web applications that solve real-world problems. With a strong foundation in both frontend and backend technologies, I specialize in creating seamless user experiences and scalable backend systems.
