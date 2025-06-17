@@ -29,7 +29,7 @@
 
 Here are some of my featured projects:
 
-### 🔹 [QuickChat 💬](https://github.com/psycheknight/chat-app-frontend)
+### 🔹 [QuickChat 💬](https://chat-app-ten-sepia-35.vercel.app/)
 A modern chat UI app built with React, Vite, and TailwindCSS. It features routing, form handling, and interactive UI components.
 > React • Tailwind CSS • React Router DOM • useRef • useNavigate
 
